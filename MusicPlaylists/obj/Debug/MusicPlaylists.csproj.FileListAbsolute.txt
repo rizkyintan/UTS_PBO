@@ -1,0 +1,64 @@
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\bin\Debug\MusicPlaylists.exe.config
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\bin\Debug\MusicPlaylists.exe
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\bin\Debug\MusicPlaylists.pdb
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\bin\Debug\Interop.WMPLib.dll
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\bin\Debug\AxInterop.WMPLib.dll
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.csprojAssemblyReference.cache
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\Interop.WMPLib.dll
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\AxInterop.WMPLib.dll
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.ResolveComReference.cache
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.Login.resources
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.MusicPlaylist.resources
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.Player.resources
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.Properties.Resources.resources
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.Register.resources
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.GenerateResource.cache
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.CoreCompileInputs.cache
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.exe
+C:\PELAJARAN\PBO\PRAKT. PBO\MusicPlaylist-main\MusicPlaylists\obj\Debug\MusicPlaylists.pdb
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\MusicPlaylists.exe.config
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\MusicPlaylists.exe
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\MusicPlaylists.pdb
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\EntityFramework.dll
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\EntityFramework.xml
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\Interop.WMPLib.dll
+C:\Users\Microsoft\source\repos\MusicPlaylists\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.csprojAssemblyReference.cache
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\Interop.WMPLib.dll
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.ResolveComReference.cache
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.Login.resources
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.MusicPlaylist.resources
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.Player.resources
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.Register.resources
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.CopyComplete
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.exe
+C:\Users\Microsoft\source\repos\MusicPlaylists\obj\Debug\MusicPlaylists.pdb
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\MusicPlaylists.exe.config
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\MusicPlaylists.exe
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\MusicPlaylists.pdb
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\EntityFramework.dll
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\EntityFramework.xml
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\Interop.WMPLib.dll
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.csprojAssemblyReference.cache
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\Interop.WMPLib.dll
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.ResolveComReference.cache
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.Login.resources
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.MusicPlaylist.resources
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.Player.resources
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.Properties.Resources.resources
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.Register.resources
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.GenerateResource.cache
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.csproj.CopyComplete
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.exe
+C:\Users\Microsoft\source\repos\rizkyintan\pbo\UTS\MusicPlaylists\obj\Debug\MusicPlaylists.pdb

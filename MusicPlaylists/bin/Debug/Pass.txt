@@ -1,0 +1,12 @@
+Intan
+1362
+true
+korona
+1362
+false
+Korona
+1362
+true
+Monopoki
+1362
+false
